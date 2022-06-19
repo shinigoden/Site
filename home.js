@@ -9,7 +9,7 @@ const Home = (props) => {
     <div className="home-container">
       <Helmet>
         <title>Nocturnal Linear Crow</title>
-        <meta property="og:title" content="Nocturnal Linear Crow" />
+        <meta property="og:title" content="пряный меню" />
       </Helmet>
       <h1 className="home-text">
         Hello im пряный on discord this is where you can download my mod menus
